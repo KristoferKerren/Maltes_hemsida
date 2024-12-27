@@ -35,7 +35,7 @@ button:hover {
 body {
   background: linear-gradient(
     90deg,
-    rgba(255, 0, 0, 1) 100%,
+    rgba(255, 0, 0, 1) 0%,
     rgba(255, 154, 0, 1) 10%,
     rgba(208, 222, 33, 1) 20%,
     rgba(79, 220, 74, 1) 30%,
@@ -63,4 +63,3 @@ h1 {
 .bild {
   height: 200px;
 }
-rgba(25
